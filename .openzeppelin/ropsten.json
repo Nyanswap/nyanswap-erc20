@@ -1,0 +1,36 @@
+{
+  "contracts": {},
+  "solidityLibs": {},
+  "proxies": {
+    "erc20/TokenMintERC20Token": [
+      {
+        "address": "0xe158B77a79A91B95b7168A62b7AcF2cE5827b196",
+        "kind": "NonProxy",
+        "bytecodeHash": "de19bd8cbdf44e9d5b376b2ac43343a408fd32d554858bf804246ee1d7fbb4fb"
+      },
+      {
+        "address": "0xB035719eB5505DFDB3a2f175D4087b99E903F4Bd",
+        "kind": "NonProxy",
+        "bytecodeHash": "de19bd8cbdf44e9d5b376b2ac43343a408fd32d554858bf804246ee1d7fbb4fb"
+      },
+      {
+        "address": "0x02F281d4a5C2a994454bB8f28B8F07E65F2dB9f7",
+        "kind": "NonProxy",
+        "bytecodeHash": "de19bd8cbdf44e9d5b376b2ac43343a408fd32d554858bf804246ee1d7fbb4fb"
+      },
+      {
+        "address": "0xD6128DF4920f9375776FC0e105C115d3863f62ea",
+        "kind": "NonProxy",
+        "bytecodeHash": "52fc0b0ac15ffef9ef747b819ba35a6406e027bc85b3fb9c9bab556fa70af3d4"
+      }
+    ],
+    "erc20/GLDToken": [
+      {
+        "address": "0xfD8052bc6453872B41e9201Fb5dcc98B3F7Eea37",
+        "kind": "NonProxy",
+        "bytecodeHash": "af4566db9afc852f4e6ffb61ddb5d3a1f33c6db7386b1cf4c718e763f782766a"
+      }
+    ]
+  },
+  "manifestVersion": "2.2"
+}

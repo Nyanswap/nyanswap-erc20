@@ -1,0 +1,14 @@
+{
+  "contracts": {},
+  "solidityLibs": {},
+  "proxies": {
+    "erc20/TokenMintERC20Token": [
+      {
+        "address": "0x3971b01877e69db633Bcc177b2bAe62c0291B143",
+        "kind": "NonProxy",
+        "bytecodeHash": "de19bd8cbdf44e9d5b376b2ac43343a408fd32d554858bf804246ee1d7fbb4fb"
+      }
+    ]
+  },
+  "manifestVersion": "2.2"
+}
